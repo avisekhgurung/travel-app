@@ -15,7 +15,7 @@ Disabled both email provider and Google sign-in provider from Firebase, due to t
 
 <h2>Setup</h2>
 <h4>Clone the repository</h4>
-<p>Via HTTPS: git clone https://github.com/nklmantey/react-native-travel-app.git</p>
+<p>Via HTTPS: git clone https://github.com/avisekhgurung/react-native-travel-app.git</p>
 <p>Via SSH: git clone git@github.com:nklmantey/react-native-travel-app.git</p>
 
 <h4>Steps</h4>
